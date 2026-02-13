@@ -45,5 +45,5 @@
                 📌 Data-driven business insights for strategic decision-making
    
 6.Screenshots   
-               Example (mobile-sales.png.jpg)
+               Example ()
                 
