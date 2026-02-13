@@ -45,5 +45,5 @@
                 📌 Data-driven business insights for strategic decision-making
    
 6.Screenshots   
-               Example (mobile-sales.png.jpg)
+               Example (https://github.com/Minhaz7866/Realme-Mobile-Dashboard/blob/main/mobile-sales.png.jpg)
                 
