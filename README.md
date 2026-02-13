@@ -43,5 +43,7 @@
                 📅 Weekday sales performance insights
                 🔎 Dynamic filters for month, brand, and model selection
                 📌 Data-driven business insights for strategic decision-making
+   
 6.Screenshots   
+               Example (mobile-sales.png.jpg)
                 
